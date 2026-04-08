@@ -1,4 +1,4 @@
-##🚀 C++ Practice Repository
+## 🚀 C++ Practice Repository
 
 This repository contains my C++ learning journey, where I practice core concepts, solve problems, and build a strong foundation in programming.
 
