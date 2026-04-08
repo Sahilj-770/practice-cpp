@@ -1,8 +1,8 @@
-🚀 C++ Practice Repository
+##🚀 C++ Practice Repository
 
 This repository contains my C++ learning journey, where I practice core concepts, solve problems, and build a strong foundation in programming.
 
-📌 About
+##📌 About
 
 I created this repo to:
 
@@ -10,14 +10,16 @@ Practice C++ fundamentals
 Improve problem-solving skills
 Prepare for DSA & competitive programming
 Track my learning progress over time
-🧠 Topics Covered
-🔹 Basics (variables, loops, conditionals)
-🔹 Functions & recursion
-🔹 Arrays & strings
-🔹 Pointers
-🔹 Object-Oriented Programming (OOP)
-🔹 STL (Standard Template Library) (in progress)
-📂 Folder Structure
+
+##🧠 Topics Covered
+-🔹 Basics (variables, loops, conditionals)
+-🔹 Functions & recursion
+-🔹 Arrays & strings
+-🔹 Pointers
+-🔹 Object-Oriented Programming (OOP)
+-🔹 STL (Standard Template Library) (in progress)
+
+##📂 Folder Structure
 practice-cpp/
 │
 ├── basics/
@@ -44,7 +46,8 @@ Run:
 ✅ Arrays & strings
 🔄 OOP (ongoing)
 ⏳ DSA coming next
-🎯 Future Goals
+
+##🎯 Future Goals
 Solve LeetCode / Codeforces problems
 Learn advanced data structures
 Build small projects in C++
