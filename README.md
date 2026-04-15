@@ -19,17 +19,7 @@ Track my learning progress over time
 - 🔹 Object-Oriented Programming (OOP)
 - 🔹 STL (Standard Template Library) (in progress)
 
-## 📂 Folder Structure
-practice-cpp/
-│
-├── basics/
-├── arrays/
-├── strings/
-├── pointers/
-├── oop/
-└── misc/
 
-Each folder contains small programs focused on specific concepts.
 
 ## ⚙️ How to Run
 Install a C++ compiler (like g++)
